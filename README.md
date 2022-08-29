@@ -1,4 +1,4 @@
-# Bascom_avr-PID-Temperature-Controller
+AVR PID Temperature Controller
 <p align="center">
 <img src="./Pic.jpg" height="240">
 </br>
